@@ -8,7 +8,7 @@ spec:
   ingressClassName: nginx
 
   rules:
-    - host: myapp.local
+    - host: ragapp.local
 
       http:
         paths:
